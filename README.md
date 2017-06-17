@@ -1,0 +1,1 @@
+Hi ! Welcome to IndusOcean, my blog. Here, I’ll be sharing information on web development & recent technology related stuff that interests me.
